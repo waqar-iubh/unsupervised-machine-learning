@@ -78,7 +78,7 @@ Three methods were used to visualize high-dimensional data:
 ## Conclusion
 This project demonstrates the effectiveness of combining clustering, topic modeling, and dimensionality reduction for analyzing large-scale textual datasets. The results highlight:
 - TF-IDF as a robust baseline for clustering.
-- Sentence-BERT embeddings as a semantically rich alternative.
-- UMAP and t-SNE as superior visualization tools for non-linear data structures.
+- K-Means clustering of data using keywords in Abstracts
+- SVD and t-SNE as visualization tools for non-linear data structures.
 
 Further refinements, such as testing alternative clustering methods (e.g., DBSCAN) or advanced embeddings, can enhance the interpretability and accuracy of the results.
