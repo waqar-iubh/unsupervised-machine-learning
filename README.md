@@ -68,9 +68,12 @@ Three methods were used to visualize high-dimensional data:
 ### Example Visualizations
 #### Truncated SVD
 - Scatterplot showing overlapping clusters in a linear reduced space.
+![Truncated SVD plot](plots/truncated_svg.png "Truncated SVD Cluster Visualization")
 
 #### t-SNE
 - Highly detailed local clustering with distinct groups.
+![t-SNE plot](plots/t-sne.png "t-SNE Cluster Visualization")
+
 
 ## Conclusion
 This project demonstrates the effectiveness of combining clustering, topic modeling, and dimensionality reduction for analyzing large-scale textual datasets. The results highlight:
